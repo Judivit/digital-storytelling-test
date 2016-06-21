@@ -1,6 +1,6 @@
 # digital-storytelling-test
 
-Live-Preview: https://medialiteracylab.github.io/digital-storytelling-test/
+Live-Preview: https://judivit.github.io/digital-storytelling-test/
 (if forked: https://YOURUSERNAME.github.io/digital-storytelling-test/)
 
 ## Markup
